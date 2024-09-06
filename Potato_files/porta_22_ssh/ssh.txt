@@ -1,3 +1,0 @@
-user: webadmin
-
-password: dragon
