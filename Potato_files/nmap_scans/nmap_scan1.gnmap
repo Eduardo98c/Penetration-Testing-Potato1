@@ -1,0 +1,4 @@
+# Nmap 7.94SVN scan initiated Sat May 11 04:28:18 2024 as: nmap -sC -sV --script vulners -O -A -p- -oA /home/user/Scansioni/nmap_full_scan 10.0.2.11
+Host: 10.0.2.11 ()	Status: Up
+Host: 10.0.2.11 ()	Ports: 22/open/tcp//ssh//OpenSSH 8.2p1 Ubuntu 4ubuntu0.1 (Ubuntu Linux; protocol 2.0)/, 80/open/tcp//http//Apache httpd 2.4.41 ((Ubuntu))/, 2112/open/tcp//ftp//ProFTPD/	Ignored State: closed (65532)	OS: Linux 4.15 - 5.8	Seq Index: 253	IP ID Seq: All zeros
+# Nmap done at Sat May 11 04:28:36 2024 -- 1 IP address (1 host up) scanned in 18.09 seconds
