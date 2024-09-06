@@ -1,0 +1,5 @@
+var child = [
+  { 'dupe': false, 'type': 4, 'name': 'icons', 'dir': 'c0', 'linked': 2, 'url': 'http://10.0.2.11/icons/', 'fetched': true, 'code': 403, 'len': 274, 'decl_mime': 'text/html', 'sniff_mime': 'application/xhtml+xml', 'cset': 'iso-8859-1', 'missing': false, 'csens': true, 'child_cnt': 4, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0xd70a3d97 },
+  { 'dupe': false, 'type': 4, 'name': 'potato', 'dir': 'c1', 'linked': 2, 'url': 'http://10.0.2.11/potato/', 'fetched': true, 'code': 200, 'len': 738, 'decl_mime': 'text/html', 'sniff_mime': 'application/xhtml+xml', 'cset': 'UTF-8', 'missing': false, 'csens': false, 'child_cnt': 2, 'issue_cnt': [ 3, 0, 0, 0, 0 ], 'sig': 0xdd0d9588 },
+  { 'dupe': false, 'type': 8, 'name': 'potato.jpg', 'dir': 'c2', 'linked': 2, 'url': 'http://10.0.2.11/potato.jpg', 'fetched': true, 'code': 200, 'len': 5518, 'decl_mime': 'image/jpeg', 'sniff_mime': 'image/jpeg', 'cset': '[none]', 'missing': false, 'csens': false, 'child_cnt': 0, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0xfff7ffff }
+];
