@@ -1,0 +1,10 @@
+GET http://10.0.2.11/ name=http://10.0.2.11/ type=serv linked=yes browsers=0 browser_used=FAST dup=0 code=200 len=245 notes=2 sig=0xb4568314
+GET http://10.0.2.11/icons/ name=icons type=dir linked=yes browsers=0 browser_used=FAST dup=0 code=403 len=274 notes=0 sig=0xd70a3d97
+GET http://10.0.2.11/icons/a.gif name=a.gif type=file linked=no browsers=0 browser_used=FAST dup=0 code=200 len=246 notes=1 sig=0xfff7ffff
+GET http://10.0.2.11/icons/back.gif name=back.gif type=file linked=yes browsers=0 browser_used=FAST dup=0 code=200 len=216 notes=0 sig=0xfff7ffff
+GET http://10.0.2.11/icons/blank.gif name=blank.gif type=file linked=yes browsers=0 browser_used=FAST dup=0 code=200 len=148 notes=0 sig=0xfff7ffff
+GET http://10.0.2.11/icons/p.gif name=p.gif type=file linked=no browsers=0 browser_used=FAST dup=0 code=200 len=237 notes=1 sig=0xfff7ffff
+GET http://10.0.2.11/potato/ name=potato type=dir linked=yes browsers=0 browser_used=FAST dup=0 code=200 len=738 notes=1 sig=0xdd0d9588
+GET http://10.0.2.11/potato/?C=N;O=D name=C type=param linked=yes browsers=0 browser_used=FAST dup=0 code=200 len=738 notes=1 sig=0x28f4fa31
+GET http://10.0.2.11/potato/?C=N;O=D name=O type=param linked=yes browsers=0 browser_used=FAST dup=0 code=200 len=738 notes=1 sig=0x28f4fa31
+GET http://10.0.2.11/potato.jpg name=potato.jpg type=file linked=yes browsers=0 browser_used=FAST dup=0 code=200 len=5518 notes=0 sig=0xfff7ffff
